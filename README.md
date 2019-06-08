@@ -1,2 +1,1 @@
-# understanding-typescript
-https://www.udemy.com/understanding-typescript/learn/v4/content
+That`s the page about all my Udemy courses
